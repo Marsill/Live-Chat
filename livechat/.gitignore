@@ -42,3 +42,15 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 
+# Ignore parent directories
+../calculator/
+../planningapp/
+../smartapp/
+../first/
+../fp/
+../practice/
+
+# Ignore build directories
+./.vscode/
+./.idea/
+build/
